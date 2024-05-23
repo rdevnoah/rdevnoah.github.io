@@ -8,7 +8,7 @@ subtitle: 'noah의 성장'
 description: 'noah의 일상, 취미'
 keywords: 'Backend, 백엔드, 웹개발, API'
 author: Noah Kim
-language: en
+language: ko
 timezone: 'Asia/Seoul'
 
 # URL
@@ -96,7 +96,18 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: icarus
+
+# Comment
+#comments:
+#  type: gitalk
+#  gitalk:
+#    enable: true
+#    client_id: Ov23liFD0dGBGnL8vk3Z
+#    client_secret: 743a90429fb20e1d3df56499eec85c7d1e8fbf71
+#    repo: rdevnoah.github.io
+#    owner: rdevnoah
+#    admin: rdevnoah
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
